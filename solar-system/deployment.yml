@@ -20,4 +20,4 @@ spec:
         name: solar-system
         imagePullPolicy: Always
         ports: 
-        - containerPort: 80Enter file contents here
+        - containerPort: 80
